@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERENKK\\source\\repos\\MVC_Static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC4B20-B2A5-4BFD-A304-9E5F06BB0EE4}|MVC_Static\\MVC_Static.csproj|c:\\users\\erenkk\\source\\repos\\mvc_static\\mvc_static\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87AC4B20-B2A5-4BFD-A304-9E5F06BB0EE4}|MVC_Static\\MVC_Static.csproj|solutionrelative:mvc_static\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC4B20-B2A5-4BFD-A304-9E5F06BB0EE4}|MVC_Static\\MVC_Static.csproj|c:\\users\\erenkk\\source\\repos\\mvc_static\\mvc_static\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87AC4B20-B2A5-4BFD-A304-9E5F06BB0EE4}|MVC_Static\\MVC_Static.csproj|solutionrelative:mvc_static\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC4B20-B2A5-4BFD-A304-9E5F06BB0EE4}|MVC_Static\\MVC_Static.csproj|C:\\Users\\ERENKK\\source\\repos\\MVC_Static\\mvc_static\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AC4B20-B2A5-4BFD-A304-9E5F06BB0EE4}|MVC_Static\\MVC_Static.csproj|solutionrelative:mvc_static\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ERENKK\\source\\repos\\MVC_Static\\MVC_Static\\web\\index.html",
+              "RelativeDocumentMoniker": "MVC_Static\\web\\index.html",
+              "ToolTip": "C:\\Users\\ERENKK\\source\\repos\\MVC_Static\\MVC_Static\\web\\index.html",
+              "RelativeToolTip": "MVC_Static\\web\\index.html",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAcwMQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-21T07:25:55.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ERENKK\\source\\repos\\MVC_Static\\MVC_Static\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Static\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ERENKK\\source\\repos\\MVC_Static\\MVC_Static\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MVC_Static\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAIYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:18:31.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\ERENKK\\source\\repos\\MVC_Static\\MVC_Static\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "MVC_Static\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\ERENKK\\source\\repos\\MVC_Static\\MVC_Static\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "MVC_Static\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:17:55.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
